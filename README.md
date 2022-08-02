@@ -1,4 +1,12 @@
 # git-course
 for git course
-##git notes
-###markdown language
+
+
+
+
+##Git notes
+
+
+
+
+###Markdown language
