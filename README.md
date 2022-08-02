@@ -4,9 +4,6 @@ for git course
 
 
 
-##Git notes
+## Markdown language
 
 
-
-
-###Markdown language
